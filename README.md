@@ -24,3 +24,5 @@ Run ```mvn install``` on your path of the project
 
 Then finally run ```java Operator.java``` on dbOperator/src/main/java
 
+## License
+GNU GPLv3
